@@ -1,0 +1,7 @@
+D:\step\system programming\classwork\Task_Sample1(06.09)\bin\Debug\Task_Sample1(06.09).exe.config
+D:\step\system programming\classwork\Task_Sample1(06.09)\bin\Debug\Task_Sample1(06.09).exe
+D:\step\system programming\classwork\Task_Sample1(06.09)\bin\Debug\Task_Sample1(06.09).pdb
+D:\step\system programming\classwork\Task_Sample1(06.09)\obj\Debug\Task_Sample1(06.09).csproj.AssemblyReference.cache
+D:\step\system programming\classwork\Task_Sample1(06.09)\obj\Debug\Task_Sample1(06.09).csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\Task_Sample1(06.09)\obj\Debug\Task_Sample1(06.09).exe
+D:\step\system programming\classwork\Task_Sample1(06.09)\obj\Debug\Task_Sample1(06.09).pdb

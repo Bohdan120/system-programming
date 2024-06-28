@@ -1,0 +1,11 @@
+D:\step\system programming\classwork\MyClassLibrary\bin\Debug\net7.0\MyClassLibrary.deps.json
+D:\step\system programming\classwork\MyClassLibrary\bin\Debug\net7.0\MyClassLibrary.dll
+D:\step\system programming\classwork\MyClassLibrary\bin\Debug\net7.0\MyClassLibrary.pdb
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\MyClassLibrary.AssemblyInfoInputs.cache
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\MyClassLibrary.AssemblyInfo.cs
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\MyClassLibrary.dll
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\refint\MyClassLibrary.dll
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\MyClassLibrary.pdb
+D:\step\system programming\classwork\MyClassLibrary\obj\Debug\net7.0\ref\MyClassLibrary.dll

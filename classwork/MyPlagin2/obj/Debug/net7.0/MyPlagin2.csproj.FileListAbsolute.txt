@@ -1,0 +1,11 @@
+D:\step\system programming\classwork\MyPlagin2\bin\Debug\net7.0\MyPlagin2.deps.json
+D:\step\system programming\classwork\MyPlagin2\bin\Debug\net7.0\MyPlagin2.dll
+D:\step\system programming\classwork\MyPlagin2\bin\Debug\net7.0\MyPlagin2.pdb
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\MyPlagin2.GeneratedMSBuildEditorConfig.editorconfig
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\MyPlagin2.AssemblyInfoInputs.cache
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\MyPlagin2.AssemblyInfo.cs
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\MyPlagin2.csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\MyPlagin2.dll
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\refint\MyPlagin2.dll
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\MyPlagin2.pdb
+D:\step\system programming\classwork\MyPlagin2\obj\Debug\net7.0\ref\MyPlagin2.dll

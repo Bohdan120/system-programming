@@ -1,0 +1,7 @@
+D:\step\system programming\homework\5.09\bin\Debug\5.09.exe.config
+D:\step\system programming\homework\5.09\bin\Debug\5.09.exe
+D:\step\system programming\homework\5.09\bin\Debug\5.09.pdb
+D:\step\system programming\homework\5.09\obj\Debug\5.09.csproj.AssemblyReference.cache
+D:\step\system programming\homework\5.09\obj\Debug\5.09.csproj.CoreCompileInputs.cache
+D:\step\system programming\homework\5.09\obj\Debug\5.09.exe
+D:\step\system programming\homework\5.09\obj\Debug\5.09.pdb

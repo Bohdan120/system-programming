@@ -1,0 +1,10 @@
+D:\step\system programming\homework\sam1(01.09)\bin\Debug\sam1(01.09).exe.config
+D:\step\system programming\homework\sam1(01.09)\bin\Debug\sam1(01.09).exe
+D:\step\system programming\homework\sam1(01.09)\bin\Debug\sam1(01.09).pdb
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1(01.09).csproj.AssemblyReference.cache
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1_01._09_.Form1.resources
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1_01._09_.Properties.Resources.resources
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1(01.09).csproj.GenerateResource.cache
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1(01.09).csproj.CoreCompileInputs.cache
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1(01.09).exe
+D:\step\system programming\homework\sam1(01.09)\obj\Debug\sam1(01.09).pdb

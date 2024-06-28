@@ -1,0 +1,7 @@
+D:\step\system programming\classwork\samp_1(05.09)\bin\Debug\samp_1(05.09).exe.config
+D:\step\system programming\classwork\samp_1(05.09)\bin\Debug\samp_1(05.09).exe
+D:\step\system programming\classwork\samp_1(05.09)\bin\Debug\samp_1(05.09).pdb
+D:\step\system programming\classwork\samp_1(05.09)\obj\Debug\samp_1(05.09).csproj.AssemblyReference.cache
+D:\step\system programming\classwork\samp_1(05.09)\obj\Debug\samp_1(05.09).csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\samp_1(05.09)\obj\Debug\samp_1(05.09).exe
+D:\step\system programming\classwork\samp_1(05.09)\obj\Debug\samp_1(05.09).pdb

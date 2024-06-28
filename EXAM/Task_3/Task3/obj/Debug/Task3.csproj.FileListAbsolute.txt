@@ -1,0 +1,7 @@
+D:\step\system programming\EXAM\Task_3\Task3\bin\Debug\Task3.exe.config
+D:\step\system programming\EXAM\Task_3\Task3\bin\Debug\Task3.exe
+D:\step\system programming\EXAM\Task_3\Task3\bin\Debug\Task3.pdb
+D:\step\system programming\EXAM\Task_3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\step\system programming\EXAM\Task_3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\step\system programming\EXAM\Task_3\Task3\obj\Debug\Task3.exe
+D:\step\system programming\EXAM\Task_3\Task3\obj\Debug\Task3.pdb

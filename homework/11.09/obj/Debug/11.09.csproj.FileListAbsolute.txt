@@ -1,0 +1,10 @@
+D:\step\system programming\homework\11.09\obj\Debug\11.09.csproj.AssemblyReference.cache
+D:\step\system programming\homework\11.09\obj\Debug\_11._09.Form1.resources
+D:\step\system programming\homework\11.09\obj\Debug\_11._09.Properties.Resources.resources
+D:\step\system programming\homework\11.09\obj\Debug\11.09.csproj.GenerateResource.cache
+D:\step\system programming\homework\11.09\obj\Debug\11.09.csproj.CoreCompileInputs.cache
+D:\step\system programming\homework\11.09\bin\Debug\11.09.exe.config
+D:\step\system programming\homework\11.09\bin\Debug\11.09.exe
+D:\step\system programming\homework\11.09\bin\Debug\11.09.pdb
+D:\step\system programming\homework\11.09\obj\Debug\11.09.exe
+D:\step\system programming\homework\11.09\obj\Debug\11.09.pdb

@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+D:\step\system programming\Dll1\MathLibrary.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Dll1.vcxproj -> D:\step\system programming\29.08\x64\Debug\Dll1.dll

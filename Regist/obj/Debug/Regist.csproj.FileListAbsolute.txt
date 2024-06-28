@@ -1,0 +1,10 @@
+D:\step\system programming\Regist\bin\Debug\Regist.exe.config
+D:\step\system programming\Regist\bin\Debug\Regist.exe
+D:\step\system programming\Regist\bin\Debug\Regist.pdb
+D:\step\system programming\Regist\obj\Debug\Regist.csproj.AssemblyReference.cache
+D:\step\system programming\Regist\obj\Debug\Regist.Form1.resources
+D:\step\system programming\Regist\obj\Debug\Regist.Properties.Resources.resources
+D:\step\system programming\Regist\obj\Debug\Regist.csproj.GenerateResource.cache
+D:\step\system programming\Regist\obj\Debug\Regist.csproj.CoreCompileInputs.cache
+D:\step\system programming\Regist\obj\Debug\Regist.exe
+D:\step\system programming\Regist\obj\Debug\Regist.pdb

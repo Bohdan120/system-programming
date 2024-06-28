@@ -1,0 +1,7 @@
+D:\step\system programming\classwork\13.09\bin\Debug\13.09.exe.config
+D:\step\system programming\classwork\13.09\bin\Debug\13.09.exe
+D:\step\system programming\classwork\13.09\bin\Debug\13.09.pdb
+D:\step\system programming\classwork\13.09\obj\Debug\13.09.csproj.AssemblyReference.cache
+D:\step\system programming\classwork\13.09\obj\Debug\13.09.csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\13.09\obj\Debug\13.09.exe
+D:\step\system programming\classwork\13.09\obj\Debug\13.09.pdb

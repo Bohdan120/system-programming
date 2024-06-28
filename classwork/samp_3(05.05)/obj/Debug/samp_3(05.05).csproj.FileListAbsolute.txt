@@ -1,0 +1,10 @@
+D:\step\system programming\classwork\samp_3(05.05)\bin\Debug\samp_3(05.05).exe.config
+D:\step\system programming\classwork\samp_3(05.05)\bin\Debug\samp_3(05.05).exe
+D:\step\system programming\classwork\samp_3(05.05)\bin\Debug\samp_3(05.05).pdb
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3(05.05).csproj.AssemblyReference.cache
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3_05._05_.Properties.Resources.resources
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3(05.05).csproj.GenerateResource.cache
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3(05.05).csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3(05.05).exe
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3(05.05).pdb
+D:\step\system programming\classwork\samp_3(05.05)\obj\Debug\samp_3_05._05_.Form1.resources

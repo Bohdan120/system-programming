@@ -1,0 +1,7 @@
+D:\step\system programming\classwork\DomainSample(12.09)\bin\Debug\DomainSample(12.09).exe.config
+D:\step\system programming\classwork\DomainSample(12.09)\bin\Debug\DomainSample(12.09).exe
+D:\step\system programming\classwork\DomainSample(12.09)\bin\Debug\DomainSample(12.09).pdb
+D:\step\system programming\classwork\DomainSample(12.09)\obj\Debug\DomainSample(12.09).csproj.AssemblyReference.cache
+D:\step\system programming\classwork\DomainSample(12.09)\obj\Debug\DomainSample(12.09).csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\DomainSample(12.09)\obj\Debug\DomainSample(12.09).exe
+D:\step\system programming\classwork\DomainSample(12.09)\obj\Debug\DomainSample(12.09).pdb

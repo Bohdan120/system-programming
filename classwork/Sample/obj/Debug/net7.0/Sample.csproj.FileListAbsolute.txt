@@ -1,0 +1,14 @@
+D:\step\system programming\Sample\bin\Debug\net7.0\Sample.exe
+D:\step\system programming\Sample\bin\Debug\net7.0\Sample.deps.json
+D:\step\system programming\Sample\bin\Debug\net7.0\Sample.runtimeconfig.json
+D:\step\system programming\Sample\bin\Debug\net7.0\Sample.dll
+D:\step\system programming\Sample\bin\Debug\net7.0\Sample.pdb
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.AssemblyInfoInputs.cache
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.AssemblyInfo.cs
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.csproj.CoreCompileInputs.cache
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.dll
+D:\step\system programming\Sample\obj\Debug\net7.0\refint\Sample.dll
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.pdb
+D:\step\system programming\Sample\obj\Debug\net7.0\Sample.genruntimeconfig.cache
+D:\step\system programming\Sample\obj\Debug\net7.0\ref\Sample.dll

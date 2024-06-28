@@ -1,0 +1,10 @@
+D:\step\system programming\classwork\sample(15.09)\bin\Debug\sample(15.09).exe.config
+D:\step\system programming\classwork\sample(15.09)\bin\Debug\sample(15.09).exe
+D:\step\system programming\classwork\sample(15.09)\bin\Debug\sample(15.09).pdb
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample(15.09).csproj.AssemblyReference.cache
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample_15._09_.Form1.resources
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample_15._09_.Properties.Resources.resources
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample(15.09).csproj.GenerateResource.cache
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample(15.09).csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample(15.09).exe
+D:\step\system programming\classwork\sample(15.09)\obj\Debug\sample(15.09).pdb

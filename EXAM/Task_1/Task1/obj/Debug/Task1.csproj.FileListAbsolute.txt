@@ -1,0 +1,7 @@
+D:\step\system programming\EXAM\Task_1\Task1\bin\Debug\Task1.exe.config
+D:\step\system programming\EXAM\Task_1\Task1\bin\Debug\Task1.exe
+D:\step\system programming\EXAM\Task_1\Task1\bin\Debug\Task1.pdb
+D:\step\system programming\EXAM\Task_1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\step\system programming\EXAM\Task_1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\step\system programming\EXAM\Task_1\Task1\obj\Debug\Task1.exe
+D:\step\system programming\EXAM\Task_1\Task1\obj\Debug\Task1.pdb

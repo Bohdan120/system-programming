@@ -1,0 +1,10 @@
+D:\step\system programming\classwork\05.09\bin\Debug\05.09.exe.config
+D:\step\system programming\classwork\05.09\bin\Debug\05.09.exe
+D:\step\system programming\classwork\05.09\bin\Debug\05.09.pdb
+D:\step\system programming\classwork\05.09\obj\Debug\05.09.csproj.AssemblyReference.cache
+D:\step\system programming\classwork\05.09\obj\Debug\_05._09.Form1.resources
+D:\step\system programming\classwork\05.09\obj\Debug\_05._09.Properties.Resources.resources
+D:\step\system programming\classwork\05.09\obj\Debug\05.09.csproj.GenerateResource.cache
+D:\step\system programming\classwork\05.09\obj\Debug\05.09.csproj.CoreCompileInputs.cache
+D:\step\system programming\classwork\05.09\obj\Debug\05.09.exe
+D:\step\system programming\classwork\05.09\obj\Debug\05.09.pdb

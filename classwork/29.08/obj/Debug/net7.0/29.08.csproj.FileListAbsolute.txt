@@ -1,0 +1,14 @@
+D:\step\system programming\29.08\bin\Debug\net7.0\29.08.exe
+D:\step\system programming\29.08\bin\Debug\net7.0\29.08.deps.json
+D:\step\system programming\29.08\bin\Debug\net7.0\29.08.runtimeconfig.json
+D:\step\system programming\29.08\bin\Debug\net7.0\29.08.dll
+D:\step\system programming\29.08\bin\Debug\net7.0\29.08.pdb
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.GeneratedMSBuildEditorConfig.editorconfig
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.AssemblyInfoInputs.cache
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.AssemblyInfo.cs
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.csproj.CoreCompileInputs.cache
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.dll
+D:\step\system programming\29.08\obj\Debug\net7.0\refint\29.08.dll
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.pdb
+D:\step\system programming\29.08\obj\Debug\net7.0\29.08.genruntimeconfig.cache
+D:\step\system programming\29.08\obj\Debug\net7.0\ref\29.08.dll
